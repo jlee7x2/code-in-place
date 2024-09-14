@@ -23,12 +23,13 @@ $ pyenv version
 code-in-place (set by PYENV_VERSION environment variable)
 ```
 
-2. Install `poetry`.
+2. Install `poetry` and install packages.
 
 ```commandline
 $ curl -sSL https://install.python-poetry.org | python -
 $ poetry --version
 Poetry (version 1.8.3)
+$ poetry install
 ```
 
 todo: add alternative, version-specific `poetry` installation step here
