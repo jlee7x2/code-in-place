@@ -31,3 +31,5 @@ $ poetry --version
 Poetry (version 1.8.3)
 ```
 
+todo: add alternative, version-specific `poetry` installation step here
+
